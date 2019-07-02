@@ -1,0 +1,11 @@
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\obj\Debug\netcoreapp2.2\Numbers.csprojAssemblyReference.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\obj\Debug\netcoreapp2.2\Numbers.csproj.CoreCompileInputs.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\obj\Debug\netcoreapp2.2\Numbers.AssemblyInfoInputs.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\obj\Debug\netcoreapp2.2\Numbers.AssemblyInfo.cs
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\bin\Debug\netcoreapp2.2\Numbers.deps.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\bin\Debug\netcoreapp2.2\Numbers.runtimeconfig.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\bin\Debug\netcoreapp2.2\Numbers.runtimeconfig.dev.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\bin\Debug\netcoreapp2.2\Numbers.dll
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\bin\Debug\netcoreapp2.2\Numbers.pdb
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\obj\Debug\netcoreapp2.2\Numbers.dll
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Favorite Number\obj\Debug\netcoreapp2.2\Numbers.pdb

@@ -1,0 +1,11 @@
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\bin\Debug\netcoreapp2.2\Age_jupiter.deps.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\bin\Debug\netcoreapp2.2\Age_jupiter.runtimeconfig.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\bin\Debug\netcoreapp2.2\Age_jupiter.runtimeconfig.dev.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\bin\Debug\netcoreapp2.2\Age_jupiter.dll
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\bin\Debug\netcoreapp2.2\Age_jupiter.pdb
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\obj\Debug\netcoreapp2.2\Age_jupiter.csprojAssemblyReference.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\obj\Debug\netcoreapp2.2\Age_jupiter.csproj.CoreCompileInputs.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\obj\Debug\netcoreapp2.2\Age_jupiter.AssemblyInfoInputs.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\obj\Debug\netcoreapp2.2\Age_jupiter.AssemblyInfo.cs
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\obj\Debug\netcoreapp2.2\Age_jupiter.dll
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Age_Jupiter\obj\Debug\netcoreapp2.2\Age_jupiter.pdb

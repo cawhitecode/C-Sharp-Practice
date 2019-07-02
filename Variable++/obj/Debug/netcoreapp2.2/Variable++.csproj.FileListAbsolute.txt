@@ -1,0 +1,11 @@
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\bin\Debug\netcoreapp2.2\Variable++.deps.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\bin\Debug\netcoreapp2.2\Variable++.runtimeconfig.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\bin\Debug\netcoreapp2.2\Variable++.runtimeconfig.dev.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\bin\Debug\netcoreapp2.2\Variable++.dll
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\bin\Debug\netcoreapp2.2\Variable++.pdb
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\obj\Debug\netcoreapp2.2\Variable++.csprojAssemblyReference.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\obj\Debug\netcoreapp2.2\Variable++.csproj.CoreCompileInputs.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\obj\Debug\netcoreapp2.2\Variable++.AssemblyInfoInputs.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\obj\Debug\netcoreapp2.2\Variable++.AssemblyInfo.cs
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\obj\Debug\netcoreapp2.2\Variable++.dll
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Variable++\obj\Debug\netcoreapp2.2\Variable++.pdb

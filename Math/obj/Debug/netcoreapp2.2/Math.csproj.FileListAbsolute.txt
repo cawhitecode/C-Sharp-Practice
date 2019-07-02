@@ -1,0 +1,11 @@
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\obj\Debug\netcoreapp2.2\Math.csprojAssemblyReference.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\obj\Debug\netcoreapp2.2\Math.csproj.CoreCompileInputs.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\obj\Debug\netcoreapp2.2\Math.AssemblyInfoInputs.cache
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\obj\Debug\netcoreapp2.2\Math.AssemblyInfo.cs
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\bin\Debug\netcoreapp2.2\Math.deps.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\bin\Debug\netcoreapp2.2\Math.runtimeconfig.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\bin\Debug\netcoreapp2.2\Math.runtimeconfig.dev.json
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\bin\Debug\netcoreapp2.2\Math.dll
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\bin\Debug\netcoreapp2.2\Math.pdb
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\obj\Debug\netcoreapp2.2\Math.dll
+c:\Users\Chris\Desktop\Coding Projects\C-Sharp-Projects\Math\obj\Debug\netcoreapp2.2\Math.pdb
